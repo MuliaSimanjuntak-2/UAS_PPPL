@@ -2,6 +2,9 @@
 
 PadAutomation is a web automation testing project using Java, Selenium WebDriver, Cucumber, and ExtentReports.
 
+## test suite
+https://docs.google.com/spreadsheets/d/1STPzb5eJOB9IIa8IFW63eClZMRe4q5fFcbLrZfdH7zY/edit?usp=sharing
+
 ## Features
 - Web automation testing with Selenium
 - Test scenarios written in Cucumber (Gherkin)
